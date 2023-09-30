@@ -1,5 +1,5 @@
 # websocket-demo
-This repositories created to study about websocket in typescript.
+This repository created to study about websocket in typescript.
 If user send gps_coordinates our service will retrieve hospitals data from SerpApi.
 After that will send hospital in list as a response.  
 
